@@ -6,8 +6,9 @@
 
 | iOS: 이치훈 | BE: 심재학 | BE: 추성호 | Design: 이민혁
 |:--------:|:--------:|:--------:|:--------:|
-| ![img](https://avatars.githubusercontent.com/u/117021317?v=4) |![img](https://avatars.githubusercontent.com/u/80797665?v=4) |![img](https://avatars.githubusercontent.com/u/79910123?v=4) | ![img]() 
+| ![img](https://avatars.githubusercontent.com/u/117021317?v=4) |![img](https://avatars.githubusercontent.com/u/80797665?v=4) |![img](https://avatars.githubusercontent.com/u/79910123?v=4) | ![IMG_2146](https://github.com/TrashWhere/.github/assets/117021317/42696160-55d1-45f9-a63f-02336d98a3a5) 
 [logichoon-redo](https://github.com/logichoon-redo) |[jeahak7780](https://github.com/jeahak7780) |[choosungho](https://github.com/choosungho) | Lee Minhyuk
+
 
 ## ✨ 프로젝트 소개
 
